@@ -1,3 +1,4 @@
 # demo2_js
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/js-4iyjgs)
+Demo 2 en JavaScript.
+Nos muestra un contador en el que podemos incrementar el número reducir o resetear el contador.
